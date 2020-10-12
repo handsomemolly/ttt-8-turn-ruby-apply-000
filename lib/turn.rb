@@ -37,7 +37,7 @@ def valid_move?(board, index)
 end
 
 #Takes a users num and the board, and places the X or O char in that position
-def move(board, index, character)
+def move(board, index, character = "X")
   
   
 end
