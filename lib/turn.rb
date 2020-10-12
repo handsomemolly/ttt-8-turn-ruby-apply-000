@@ -38,5 +38,5 @@ end
 
 #Takes a users num and the board, and places the X or O char in that position
 def move(board, index, character = "X")
-  board[index] = 
+  board[index] = character
 end
